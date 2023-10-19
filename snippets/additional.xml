@@ -22,4 +22,23 @@
   <!-- external -->
   <project path="external/json-c" name="android_external_json-c" groups="qcom,qssi" remote="lineage" />
 
+  <!-- CodeLinaro additions -->
+  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" groups="qcom,qssi" remote="lineage" />
+  <project path="vendor/qcom/opensource/audio-hal/st-hal" name="android_vendor_qcom_opensource_audio-hal_st-hal" groups="qcom,lahaina" remote="lineage" />
+  <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/commonsys-intf/display" name="android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,qssi" remote="lineage" />
+  <project path="vendor/qcom/opensource/commonsys/display" name="android_vendor_qcom_opensource_display-commonsys" groups="qcom,qssi" remote="lineage" />
+  <project path="vendor/qcom/opensource/core-utils-sys" name="android_vendor_qcom_opensource_core-utils-sys" groups="qcom,qssi" remote="lineage" />
+  <project path="vendor/qcom/opensource/core-utils-vendor" name="android_vendor_qcom_opensource_core-utils-vendor" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/fm-commonsys" name="android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" remote="lineage" />
+  <project path="vendor/qcom/opensource/healthd-ext" name="android_vendor_qcom_opensource_healthd-ext" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" groups="qcom,qssi" remote="lineage" />
+  <project path="vendor/qcom/opensource/libfmjni" name="android_vendor_qcom_opensource_libfmjni" groups="qcom" remote="lineage" />
+  <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/usb" name="android_vendor_qcom_opensource_usb" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/vibrator" name="android_vendor_qcom_opensource_vibrator" groups="qcom,waipio-vendor" remote="lineage" />
+  <project path="vendor/qcom/opensource/wfd-commonsys" name="android_vendor_qcom_opensource_wfd-commonsys" groups="qcom,waipio-video" remote="lineage" />
+
 </manifest>
