@@ -4,6 +4,11 @@
            fetch="https://github.com/LineageOS"
            revision="refs/heads/lineage-20.0" />
 
+  <remote  name="tequila"
+           fetch="https://github.com/tequilaOS"
+           revision="refs/heads/uno"
+           review="https://review.tequilaos.org" />
+
   <!-- tools repos -->
   <project path="tools/extract-utils" name="android_tools_extract-utils" remote="lineage" />
 
